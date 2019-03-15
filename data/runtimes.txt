@@ -1,0 +1,62 @@
+Time for CIVE agorithm for ../images/raw/montreal_bing.png is 2.57844996452.
+
+Time for ExGSubR agorithm for ../images/raw/montreal_bing.png is 1.61197781563.
+
+Time for NDI agorithm for ../images/raw/montreal_bing.png is 78.9650409222.
+
+Time for NDIMod agorithm for ../images/raw/montreal_bing.png is 79.9018039703.
+
+Time for CIVE agorithm for ../images/raw/Armaturapress.jpg is 14.6732549667.
+
+Time for ExGSubR agorithm for ../images/raw/Armaturapress.jpg is 6.07255411148.
+
+Time for NDI agorithm for ../images/raw/Armaturapress.jpg is 469.192731857.
+
+Time for NDIMod agorithm for ../images/raw/Armaturapress.jpg is 440.472866058.
+
+Time for CIVE agorithm for ../images/raw/bing_grabs.png is 2.08735895157.
+
+Time for ExGSubR agorithm for ../images/raw/bing_grabs.png is 1.0074660778.
+
+Time for NDI agorithm for ../images/raw/bing_grabs.png is 61.1477108002.
+
+Time for NDIMod agorithm for ../images/raw/bing_grabs.png is 60.2980179787.
+
+Time for CIVE agorithm for ../images/raw/chicago_USGS.jpg is 10.136521101.
+
+Time for ExGSubR agorithm for ../images/raw/chicago_USGS.jpg is 4.4328930378.
+
+Time for NDI agorithm for ../images/raw/chicago_USGS.jpg is 336.851303816.
+
+Time for NDIMod agorithm for ../images/raw/chicago_USGS.jpg is 344.798471928.
+
+Time for CIVE agorithm for ../images/raw/eg1stanford.tif is 7.10099601746.
+
+Time for ExGSubR agorithm for ../images/raw/eg1stanford.tif is 2.77498698235.
+
+Time for NDI agorithm for ../images/raw/eg1stanford.tif is 288.752805948.
+
+Time for NDIMod agorithm for ../images/raw/eg1stanford.tif is 330.585699081.
+
+Time for CIVE agorithm for ../images/raw/HarshLight.jpg is 29.7545361519.
+
+Time for ExGSubR agorithm for ../images/raw/HarshLight.jpg is 12.6487381458.
+
+Time for NDI agorithm for ../images/raw/HarshLight.jpg is 1651.26004291.
+
+Time for NDIMod agorithm for ../images/raw/HarshLight.jpg is 1879.02769995.
+
+Time for CIVE agorithm for ../images/raw/google_grabs.png is 2.49713492393.
+
+Time for ExGSubR agorithm for ../images/raw/google_grabs.png is 1.47256708145.
+
+Time for NDI agorithm for ../images/raw/google_grabs.png is 117.775158167.
+
+Time for NDIMod agorithm for ../images/raw/google_grabs.png is 117.154682159.
+
+Time for CIVE agorithm for ../images/raw/NightFlier.jpg is 118.628168106.
+
+Time for ExGSubR agorithm for ../images/raw/NightFlier.jpg is 51.5408639908.
+
+Time for NDI agorithm for ../images/raw/NightFlier.jpg is 6641.56353688.
+

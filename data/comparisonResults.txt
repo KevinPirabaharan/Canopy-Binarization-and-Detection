@@ -1,0 +1,28 @@
+For file ../images/processed/eg1stanford_CIVE.tif vs groundTruth: 
+Total Match: 80.1502%
+Total Unmatch: 19.8498%
+Blacks Wrong: 18.8049248757%
+Whites Wrong: 20.5296502569%
+ 
+ 
+For file ../images/processed/eg1stanford_ExGSubR.tif vs groundTruth: 
+Total Match: 70.4642%
+Total Unmatch: 29.5358%
+Blacks Wrong: 3.39533887639%
+Whites Wrong: 59.0263490888%
+ 
+ 
+For file ../images/processed/eg1stanford_NDI.tif vs groundTruth: 
+Total Match: 53.2444%
+Total Unmatch: 46.7556%
+Blacks Wrong: 0.175834745397%
+Whites Wrong: 99.7714575927%
+ 
+ 
+For file ../images/processed/backup_eg1stanford_NDIMod.tif vs groundTruth: 
+Total Match: 53.2444%
+Total Unmatch: 46.7556%
+Blacks Wrong: 0.175834745397%
+Whites Wrong: 99.7714575927%
+ 
+ 

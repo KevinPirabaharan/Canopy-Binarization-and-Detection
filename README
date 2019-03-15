@@ -1,0 +1,55 @@
+Name: Kevin Pirabaharan (0946212)
+CIS*4720 Assignment 2 Submission (README)
+
+Program Description
+======================
+The assignment submission outlines the design and implementation of algorithms in a python
+program to isolate and recognize greenery and canopies amongst regular environments.
+4 different algorithms: CIVE, ExGSubR, NDI, and NDIMod; was tested on the 11 provided canopies
+images. The images were processed with the algorithms then binarized into black and white
+images to then be compared in a function against the ground Truth, or sample image
+that was provided.
+
+Images
+=========
+Source Images 							             -> 		"images/raw"
+Ground Truth Image 				     	         -> 		"images/groundTruth"
+Processed (by python script) Images 	   -> 		"images/processed"
+
+Data
+=======
+The images were compared with the sample image and the results were recorded in the data folders
+in a text file (comparisonResults.txt). The runtimes of all the algorithms and images were stored
+in runtimes.txt.
+
+
+Submission Contents
+=======================
+Included in this folder are:
+- This README
+- Assignment 2 Report - A2Report.pdf
+- Images folder
+  - Raw Images
+  - Processed Images
+  - Ground Truth Image
+- src folder
+  - Python code used:
+    - main.py (algorithms to process images in addition to function that compares images to ground truth)
+    - imthr_lib.py (binarizing functions) and imageIO.py (opening and closing images)
+      - provided inside python toolbox given to us by Dr. Denis Nikitenko
+
+
+Limitations
+================
+The NDI and NDIMod algorithms of the code return black screens so far and take long amounts of time to process images and need to be resolved.
+
+Running Code
+================
+Make sure you have PIL(pillow), time, division, numpy, matplotlib, pylab, tkinter, and scipy
+python packages installed to run the code.
+1. cd into the src as the working directory
+2. 'chmod u+x main.py' & 'chmod u+x lmthr_lib.py' & 'chmod u+x imageIO.py' to initialize the python files
+3. 'python ./main.py' to run the program
+4. Use the corresponding options for the algorithm you want to run and enter the name of the image
+5. Enter 't' if you want to test all the included test Images
+6. Enter 'c' if you want to test processed eg1stanford images against the ground truth
